@@ -18,9 +18,9 @@
     "jsdom": "^24.0.0",
     "prettier": "^3.2.5",
     "tsup": "^8.3.5",
-    "turbo": "^1.10.12",
+    "turbo": "^2.9.14",
     "typescript": "^5.4.2",
-    "vitest": "^1.6.1"
+    "vitest": "^4.1.11"
   },
   "repository": {
     "type": "git",
